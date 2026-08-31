@@ -21,6 +21,7 @@ library(stringr)
 library(readr)
 
 raw_path <- "/Users/katiecoubrough/ESD Mapping/ESD Mapping Tool - SCI Pharmacy & Biomedical Sciences - June 24_ALL MODULES.xlsx"
+raw_path <- "[FILE PATH].xlsx" # Script will run when full file path is uploaded in here
 out_dir  <- "."
 
 # --- exclusions ------------------------------------------------------------
